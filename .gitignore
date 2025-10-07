@@ -1,0 +1,19 @@
+__pycache__/
+.venv/
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Env
+.env
+
+# Docker
+*.log
+*.pid
+
+# System
+.DS_Store
